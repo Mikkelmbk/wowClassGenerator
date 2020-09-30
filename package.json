@@ -1,0 +1,23 @@
+{
+  "name": "wowClassGenerator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build:css": "tailwind build ./assets/tailwind.css -o ./assets/style.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mikkelmbk/wowClassGenerator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mikkelmbk/wowClassGenerator/issues"
+  },
+  "homepage": "https://github.com/Mikkelmbk/wowClassGenerator#readme",
+  "dependencies": {
+    "tailwindcss": "^1.8.10"
+  }
+}
